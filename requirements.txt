@@ -1,0 +1,4 @@
+zigpy==0.67.0
+zigpy-zboss==1.2.0
+zha==0.0.34
+paho-mqtt==2.1.0

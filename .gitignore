@@ -1,0 +1,6 @@
+__pycache__
+.git
+.mypy_cache
+zigbee.db
+zigbee.db-shm
+zigbee.db-wal
